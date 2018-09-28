@@ -1,0 +1,28 @@
+.App {
+    padding:50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    font-size:14px;
+}
+
+.App--loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.Title {
+    font-size: 30px;
+    font-family: 'Notable', sans-serif;
+    background-color: #666666;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: rgba(255,255,255,0.5) 0px 3px 3px;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
