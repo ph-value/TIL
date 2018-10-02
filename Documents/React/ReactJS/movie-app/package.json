@@ -16,7 +16,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://ph-value.github.io/til/documents/react/reactjs/movie-app",
+  "homepage": "http://ph-value.github.io/TIL/Documents/React/ReactJS/movie-app",
   "devDependencies": {
     "gh-pages": "^2.0.0"
   }
