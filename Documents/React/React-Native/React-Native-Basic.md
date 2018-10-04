@@ -10,7 +10,7 @@ Stateless Component 작성 시 export 코드 작성해주기.
 
 
 
-Platform-specific Code를 통해 IOS/Android에 대해 타겟 대응하는 코드를 작성.
+**Platform-specific Code**를 통해 IOS/Android에 대해 타겟 대응하는 코드를 작성.
 
 ```js
 ...Platform.select({
@@ -20,4 +20,6 @@ android: {}
 ```
 
 
+
+[**AsyncStorage**](https://facebook.github.io/react-native/docs/asyncstorage#docsNav) - 비동기식 키-값 스토리지 시스템.
 
