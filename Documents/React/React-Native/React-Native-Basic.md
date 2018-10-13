@@ -12,11 +12,22 @@ Stateless Component 작성 시 export 코드 작성해주기.
 
 **Platform-specific Code**를 통해 IOS/Android에 대해 타겟 대응하는 코드를 작성.
 
+#### StyleSheet
+
 ```js
 ...Platform.select({
 ios: {},
 android: {}
 ])
+```
+
+#### code
+
+```javascript
+const instructions = Platform.select({
+  ios: 'some text for ios',
+  android: 'some text for android',
+});
 ```
 
 
