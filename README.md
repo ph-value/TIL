@@ -11,3 +11,6 @@
 
 [Flutter](./Documents/dart-for-flutter/dart-expression.md)
 
+[크롤링-셀레니움-파이썬](./Documents/crawling-selenium-python.md)
+
+[기억하려고 남기는 처음 알게 된 용어들](/terminology.md)
