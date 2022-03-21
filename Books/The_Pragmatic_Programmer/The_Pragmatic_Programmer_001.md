@@ -1,4 +1,5 @@
-#The Pragmatic Programmer - 01
+The Pragmatic Programmer #02
+
 
 
 **TIL (Today I Learned) 날짜**
