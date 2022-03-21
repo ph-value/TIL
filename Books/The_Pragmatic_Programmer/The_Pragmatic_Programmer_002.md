@@ -49,11 +49,11 @@
 
     - 언어나 기술에 중립적으로 내부 API를 정리하는 도구를 사용하라.
 
-      - [Swagger]: https://swagger.io
+      - [Swagger](https://swagger.io)
 
-      - [Thrift]: https://thrift.apache.org
+      - [Thrift](https://thrift.apache.org)
 
-      - [Protocol]: https://developers.google.com/protocol-buffers
+      - [Protocol](https://developers.google.com/protocol-buffers)
 
   - 외부 API에서 생기는 중복
 
@@ -93,7 +93,7 @@
 
   - 내부 도메인 언어
 
-    - [RSpec]: https://rspec.info
+    - [RSpec](https://rspec.info)
 
       : Behaviour Driven Development for Ruby.
 
@@ -101,9 +101,9 @@
 
   - 외부 도메인 언어
 
-    - [Cucumber]: https://cucumber.io
+    - [Cucumber](https://cucumber.io)
 
-    - [앤서블(Ansible)]: https://www.ansible.com
+    - [앤서블(Ansible)](https://www.ansible.com)
 
       
 
