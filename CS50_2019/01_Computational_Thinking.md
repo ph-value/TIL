@@ -135,7 +135,6 @@
 
 ## 5) 스크래치: 심화
 
+## 6) Quiz 1
 
-
-
-
+![IMG_0713](/Users/pph/Downloads/IMG_0713.jpg)
