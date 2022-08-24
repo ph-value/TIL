@@ -157,7 +157,7 @@ counter = counter + 1; //counter에 1을 더한 값을 counter에 할당.
 - ### :grey_question: 생각해보기 :grey_exclamation:
 	> 학습한 다양한 방법을 이용하여 "개발공부는 재미있다!"를 10번 출력하는 코드를 작성해보세요.
 
-	![[./images/Pasted image 20220824201628.png]]
+![image-20220824201628](./images/image-20220824201628.png)
 
 ## 4) 자료형, 형식 지정자, 연산자
 - 자료형(資料型, 데이터 타입, data type)
@@ -188,7 +188,8 @@ counter = counter + 1; //counter에 1을 더한 값을 counter에 할당.
 - ### :grey_question: 생각해보기 :grey_exclamation:
 >짝수인지 홀수인지 알려주는 코드짜기에 자신의 스타일 대로 주석을 달아보고 다른 수강생은 어떻게 주석을 달았는지 비교해보세요.
 
-![[./images/Pasted image 20220824214154.png]]
+![image-20220824214154](./images/image-20220824214154.png)
+![[]]
 ## 5) 사용자 정의 함수, 중첩 루프
 
 ## 6) 하드웨어의 한계

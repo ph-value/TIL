@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "62b6b1e0e42a1050",
+        "id": "4e22f9ebca588d37",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -138,10 +138,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "62b6b1e0e42a1050",
+  "active": "4e22f9ebca588d37",
   "lastOpenFiles": [
-    "Pasted image 20220824214154.png",
+    "images/image-20220824214154.png",
+    "images/image-20220824201628.png",
     "02_C_Programming_language.md",
+    "Pasted image 20220824214154.png",
     "01_Computational_Thinking.md",
     "04_Algorithms.md",
     "03_Arrays.md",
