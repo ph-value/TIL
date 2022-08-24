@@ -139,4 +139,4 @@
 
 ## 6) Quiz 1
 
-![IMG_0713](/images/IMG_0713.jpg)
+![IMG_0713](./images/IMG_0713.jpg)
