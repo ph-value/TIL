@@ -104,6 +104,21 @@
 
 
 ## 3) 조건문과 루프
+- 변수 할당
+```c
+int counter = 0; //정수형 변수 counter에 0을 할당.
+```
+
+- 변수 값 증가
+```c
+counter = counter + 1; //counter에 1을 더한 값을 counter에 할당.
+```
+
+`counter += 1;` 과 `counter++;` 도 counter의 값을 1 증가 시키는 코드.
+
+syntactic sugar
+ 
+
 
 ## 4) 자료형, 형식 지정자, 연산자
 
