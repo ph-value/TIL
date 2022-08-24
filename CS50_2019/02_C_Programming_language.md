@@ -116,7 +116,12 @@ counter = counter + 1; //counter에 1을 더한 값을 counter에 할당.
 
 `counter += 1;` 과 `counter++;` 도 counter의 값을 1 증가 시키는 코드.
 
-syntactic sugar
+> :bulb: syntactic sugar :buld:
+>
+> 인간의 구문 사용을 일거나 표현하기 쉽게 하기 위해 언어를 **달콤하게** 표현한 것.
+
+- 조건문
+  `if`
  
 
 
