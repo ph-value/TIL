@@ -232,5 +232,7 @@ counter = counter + 1; //counter에 1을 더한 값을 counter에 할당.
 	- ### **DBA의 말을 잘 듣자.**
 
 ---
-
+## Quiz
+![image-20220825204433](./images/image-20220825204433.png)
+---
 https://sandbox.cs50.io/90e5d6b0-a5dc-4a13-b4d8-6407d3906a26

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4e22f9ebca588d37",
+        "id": "9934e4e09d55f895",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e9460e30a3f46446",
@@ -138,11 +137,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e22f9ebca588d37",
+  "active": "9934e4e09d55f895",
   "lastOpenFiles": [
+    "images/image-20220825204433.png",
+    "02_C_Programming_language.md",
     "images/image-20220824214154.png",
     "images/image-20220824201628.png",
-    "02_C_Programming_language.md",
     "Pasted image 20220824214154.png",
     "01_Computational_Thinking.md",
     "04_Algorithms.md",
