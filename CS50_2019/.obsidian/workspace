@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9934e4e09d55f895",
+        "id": "10385ae47b340f24",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02_C_Programming_language.md",
+            "file": "03_Arrays.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e9460e30a3f46446",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_C_Programming_language.md",
+                "file": "03_Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_C_Programming_language.md",
+                "file": "03_Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_C_Programming_language.md"
+                "file": "03_Arrays.md"
               }
             }
           },
@@ -137,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9934e4e09d55f895",
+  "active": "10385ae47b340f24",
   "lastOpenFiles": [
-    "images/image-20220825204433.png",
     "02_C_Programming_language.md",
+    "03_Arrays.md",
+    "images/image_20220829170051.png",
+    "01_Computational_Thinking.md",
+    "images/image-20220825204433.png",
     "images/image-20220824214154.png",
     "images/image-20220824201628.png",
     "Pasted image 20220824214154.png",
-    "01_Computational_Thinking.md",
     "04_Algorithms.md",
-    "03_Arrays.md",
-    "images/IMG_0713.jpg",
-    "Users/pph/Downloads/IMG_0713.jpg.md"
+    "images/IMG_0713.jpg"
   ]
 }
