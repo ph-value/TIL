@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e9460e30a3f46446",
@@ -140,15 +139,15 @@
   },
   "active": "10385ae47b340f24",
   "lastOpenFiles": [
-    "02_C_Programming_language.md",
+    "images/IMG_0713.md",
     "03_Arrays.md",
+    "02_C_Programming_language.md",
     "images/image_20220829170051.png",
     "01_Computational_Thinking.md",
     "images/image-20220825204433.png",
     "images/image-20220824214154.png",
     "images/image-20220824201628.png",
     "Pasted image 20220824214154.png",
-    "04_Algorithms.md",
-    "images/IMG_0713.jpg"
+    "04_Algorithms.md"
   ]
 }
