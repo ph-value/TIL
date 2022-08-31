@@ -63,7 +63,7 @@
 
 - # ⭐️주목😍😛
 	- 제가 가끔 러버덕 대신 사용하는 에어캣의 옆구리를 보고 웃으십시오
-	- ![에어캣](./images/IMG_0439.jpg)
+	- ![에어캣](./images/IMG_0439.JPG)
 	- 
 
 - ### :grey_question: 생각해보기 :grey_exclamation:
