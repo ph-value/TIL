@@ -1,4 +1,13 @@
 
+### git cli
+
+```
+git remote update
+git branch -a
+git push -u origin snapshot-test
+```
+
+
 #### mac, java 위치
 ```
 /usr/libexec/java_home -V
