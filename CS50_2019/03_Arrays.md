@@ -88,10 +88,27 @@
 
 ---
 ## 6) 문자열과 배열
-- 
+- 문자열(String)
+    - `사실 문자열은 문자 데이터들의 배열이었습니다...!`
+    - 문자열의 끝은 널(null,`\0`) 종단 문자로 표현한다
+
+    - names가 실제 메모리상에 저장된 예시와 해당 인덱스를 확인 할 수 있다
+    ```c
+        string names[4];
+
+        names[0] = "EMMA";
+        names[1] = "RODRIGO";
+        names[2] = "BRIAN";
+        names[3] = "DAVID";
+
+        printf("%s\n", names[0]);
+        printf("%c%c%c%c\n", names[0][0], names[0][1], names[0][2], names[0][3]);
+    ```
+![emma/rodrigo/brian/david](https://cs50.harvard.edu/x/2020/notes/2/memory_with_string_array.png)
 
 ---
 ## 7) 문자열의 활용
+
 
 ---
 ## 8) 명령행 인자
