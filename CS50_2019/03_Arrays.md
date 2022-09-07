@@ -104,16 +104,33 @@
         printf("%s\n", names[0]);
         printf("%c%c%c%c\n", names[0][0], names[0][1], names[0][2], names[0][3]);
     ```
+
 ![emma/rodrigo/brian/david](https://cs50.harvard.edu/x/2020/notes/2/memory_with_string_array.png)
 
 ---
 ## 7) 문자열의 활용
+- 문자열의 길이 및 탐색
+        - `string.h` 라이브러리 안에 포함되어 있는 `strlen()` 함수로 문자열의 길이를 얻을 수 있다.
+    - 문자열 탐색 및 수정
+        - 사용자로부터 문자열을 입력 받아 대문자로 바꿔주는 프로그램을 작성하려고 한다.
+        - 방법 1) 알파벳의 ASCII값에서 같은 알파벳의 대소문자의 차의 절대값이 32이다. 소문자일 때 32를 빼고 문자 형태로 출력하면 대문자가 출력된다.
+        - 방법 2) `ctype.h` 라이브러리의 `toupper()` 함수로 변환 할 수 있다.
 
+- ### :grey_question: 생각해보기 :grey_exclamation:
+> string.h와 ctype.h의 라이브러리에 다른 어떤 함수가 있는지 확인해 보고, 어떤 함수를 어떻게 활용해 볼 수 있을지 생각해봅시다.
+
+    - 
 
 ---
 ## 8) 명령행 인자
+ - 명령행 인자(command line argument)
+    `int main(int argc, string argv[]){...}`
+    - `argc`: main 함수가 받게 될 입력의 개수 (argument count)
+    - `argv[]`: 입력이 포함된 배열 (argument vector)
+    - `argv[0]` : 기본적으로 프로그램의 이름이 저장된다.
+    - 컴파일 후 `./파일명 입력1` 명령으로 실행 시 `argv[1]`에 `입력1`이 대입된다.
 
+- ### :grey_question: 생각해보기 :grey_exclamation:   
+> 명령행 인자는 프로그램의 확장성에 어떤 도움이 될까요? 구체적인 예시를 떠올려보세요.
 
-
-
-
+    -  
